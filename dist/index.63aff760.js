@@ -36896,8 +36896,10 @@ var _reactDefault = parcelHelpers.interopDefault(_react);
 var _reactRedux = require("react-redux");
 var _product = require("../components/Product");
 var _productDefault = parcelHelpers.interopDefault(_product);
+var _s = $RefreshSig$();
 function Home() {
-    // const productsList = useSelector((state) => state.products)
+    _s();
+    const productsList = (0, _reactRedux.useSelector)((state)=>state.products);
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         className: "products-container",
         children: productsList.map(({ id, title, rating, price, image })=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _productDefault.default), {
@@ -36917,6 +36919,11 @@ function Home() {
         columnNumber: 5
     }, this);
 }
+_s(Home, "cSEb9h4nBSZasejpAmiQJBLaVI0=", false, function() {
+    return [
+        (0, _reactRedux.useSelector)
+    ];
+});
 _c = Home;
 var _c;
 $RefreshReg$(_c, "Home");
