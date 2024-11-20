@@ -38,7 +38,7 @@
 105D:\annu all vs documents\real projects\Redux Practice\node_modules\msgpackr\dist\index-no-eval.min.js.map133753598502071359 0
 103D:\annu all vs documents\real projects\Redux Practice\node_modules\dom-serializer\node_modules\entities133765030279166085 1
 112D:\annu all vs documents\real projects\Redux Practice\node_modules\caniuse-lite\data\features\rest-parameters.js133753598943699793 0
-58D:\annu all vs documents\real projects\Redux Practice\dist133765043207168122 1
+58D:\annu all vs documents\real projects\Redux Practice\dist133765586265292423 1
 98D:\annu all vs documents\real projects\Redux Practice\node_modules\cosmiconfig\dist\loaders.js.map133753598485601594 0
 100D:\annu all vs documents\real projects\Redux Practice\node_modules\css-tree\cjs\convertor\create.cjs133753598429234041 0
 134D:\annu all vs documents\real projects\Redux Practice\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\Url.js133753598701320510 0
@@ -182,7 +182,7 @@
 78D:\annu all vs documents\real projects\Redux Practice\node_modules\safe-buffer133765030415871810 1
 97D:\annu all vs documents\real projects\Redux Practice\node_modules\react\umd\react.development.js133758708928674968 0
 98D:\annu all vs documents\real projects\Redux Practice\node_modules\caniuse-lite\data\regions\IL.js133753598881018770 0
-67D:\annu all vs documents\real projects\Redux Practice\pages\Home.js133765043216553350 0
+67D:\annu all vs documents\real projects\Redux Practice\pages\Home.js133765586231709911 0
 99D:\annu all vs documents\real projects\Redux Practice\node_modules\svgo\plugins\sortDefsChildren.js133753598658786963 0
 80D:\annu all vs documents\real projects\Redux Practice\node_modules\lmdb\write.js133753598710544775 0
 84D:\annu all vs documents\real projects\Redux Practice\node_modules\parcel\src\bin.js133753598250115249 0
@@ -724,7 +724,7 @@
 98D:\annu all vs documents\real projects\Redux Practice\node_modules\caniuse-lite\data\regions\LA.js133753598891372334 0
 108D:\annu all vs documents\real projects\Redux Practice\node_modules\scheduler\umd\scheduler.production.min.js133758708926666211 0
 88D:\annu all vs documents\real projects\Redux Practice\node_modules\svgo\plugins\_path.js133753598545444384 0
-76D:\annu all vs documents\real projects\Redux Practice\dist\index.63aff760.js133765043204937780 0
+76D:\annu all vs documents\real projects\Redux Practice\dist\index.63aff760.js133765586263693407 0
 96D:\annu all vs documents\real projects\Redux Practice\node_modules\weak-lru-cache\LRFUExpirer.js133753598235897831 0
 101D:\annu all vs documents\real projects\Redux Practice\node_modules\source-map-js\lib\binary-search.js133753598188211015 0
 92D:\annu all vs documents\real projects\Redux Practice\node_modules\svgo\plugins\prefixIds.js133753598613392134 0
@@ -802,7 +802,7 @@
 107D:\annu all vs documents\real projects\Redux Practice\node_modules\@swc\helpers\_\_async_generator_delegate133765030026611786 1
 122D:\annu all vs documents\real projects\Redux Practice\node_modules\dom-serializer\node_modules\entities\lib\index.d.ts.map133753598385499261 0
 86D:\annu all vs documents\real projects\Redux Practice\node_modules\react-dom\server.js133758708980868218 0
-80D:\annu all vs documents\real projects\Redux Practice\dist\index.63aff760.js.map133765043205577377 0
+80D:\annu all vs documents\real projects\Redux Practice\dist\index.63aff760.js.map133765586264822715 0
 124D:\annu all vs documents\real projects\Redux Practice\node_modules\@parcel\package-manager\test\fixtures\packages\a\index.js133753598420657930 0
 109D:\annu all vs documents\real projects\Redux Practice\node_modules\utility-types\dist\aliases-and-guards.d.ts133753598420967738 0
 107D:\annu all vs documents\real projects\Redux Practice\node_modules\utility-types\dist\aliases-and-guards.js133753598122850214 0
@@ -4487,7 +4487,7 @@
 105D:\annu all vs documents\real projects\Redux Practice\node_modules\caniuse-lite\data\features\jpeg2000.js133753598888943835 0
 103D:\annu all vs documents\real projects\Redux Practice\node_modules\caniuse-lite\data\features\jpegxr.js133753598889083749 0
 117D:\annu all vs documents\real projects\Redux Practice\node_modules\caniuse-lite\data\features\js-regexp-lookbehind.js133753598889253649 0
-81D:\annu all vs documents\real projects\Redux Practice\dist\index.c41b5a0e.css.map133765043202429313 0
+81D:\annu all vs documents\real projects\Redux Practice\dist\index.c41b5a0e.css.map133765586264832700 0
 120D:\annu all vs documents\real projects\Redux Practice\node_modules\caniuse-lite\data\features\kerning-pairs-ligatures.js133753598889723369 0
 119D:\annu all vs documents\real projects\Redux Practice\node_modules\caniuse-lite\data\features\keyboardevent-location.js133753598890362968 0
 116D:\annu all vs documents\real projects\Redux Practice\node_modules\caniuse-lite\data\features\keyboardevent-which.js133753598890412932 0
@@ -6152,11 +6152,11 @@
 78D:\annu all vs documents\real projects\Redux Practice\node_modules\.bin\semver133753599223689466 0
 94D:\annu all vs documents\real projects\Redux Practice\node_modules\.bin\update-browserslist-db133753599223739455 0
 98D:\annu all vs documents\real projects\Redux Practice\node_modules\.bin\update-browserslist-db.cmd133753599223739455 0
-81D:\annu all vs documents\real projects\Redux Practice\dist\cart-icon.1f3296c5.svg133765043207158126 0
 76D:\annu all vs documents\real projects\Redux Practice\dist\index.8cfc62b9.js133758694980757693 0
-77D:\annu all vs documents\real projects\Redux Practice\dist\index.c41b5a0e.css133765043202279404 0
-69D:\annu all vs documents\real projects\Redux Practice\dist\index.html133765043202279404 0
 87D:\annu all vs documents\real projects\Redux Practice\dist\Redux practice 2.3464ddca.js133753600350941605 0
 91D:\annu all vs documents\real projects\Redux Practice\dist\Redux practice 2.3464ddca.js.map133753600351331363 0
 75D:\annu all vs documents\real projects\Redux Practice\components\Product.js133763106920814890 0
 74D:\annu all vs documents\real projects\Redux Practice\assets\cart-icon.svg133759571671202959 0
+81D:\annu all vs documents\real projects\Redux Practice\dist\cart-icon.1f3296c5.svg133765586264333013 0
+77D:\annu all vs documents\real projects\Redux Practice\dist\index.c41b5a0e.css133765586264333013 0
+69D:\annu all vs documents\real projects\Redux Practice\dist\index.html133765586264333013 0
